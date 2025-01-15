@@ -1,7 +1,7 @@
 # Worshop-0
 
 
-##Introduction: 8/1/25 (First Online Meet)
+## Introduction: 8/1/25 (First Online Meet)
 
 I haven’t ever done coding before so I’m super excited about it. I haven’t used Github before so I’m excited to figure that out. I’m curious if we will do any that could be like a point and click story game because that would be really fun for someone like myself. 
 
@@ -15,7 +15,7 @@ Now Beginning to write some code. Write an algorithm for a drawing. Uh oh I fail
 - Will be using p5.js - free and open source tool used by artists
 - Will be using Github
 
-##Workshop 0 and p5.js (8-10/1/25)
+## Workshop 0 and p5.js (8-10/1/25)
 
 Okay so the plan is to watch these videos and then do some of my own research into how to use the p5.js tool.
 
@@ -29,7 +29,7 @@ Changing Colours:
 <img width="1512" alt="Screenshot 2025-01-10 at 9 47 54 PM" src="https://github.com/user-attachments/assets/1cb4ccb8-e2be-46a3-b6a9-8ee2445ee897" />
 <img width="1512" alt="Screenshot 2025-01-10 at 9 47 56 PM" src="https://github.com/user-attachments/assets/bbab9311-efff-4dfe-aa8e-7a46decc85ea" />
 
-##Finished product of a little experimenting
+## Finished product of a little experimenting
 
 [IMG_2459.MOV.zip](https://github.com/user-attachments/files/18430884/IMG_2459.MOV.zip)
 In this is a video of my finished product, which moves and changes colours
