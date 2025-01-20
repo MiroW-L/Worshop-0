@@ -1,5 +1,7 @@
 # Worshop-0
 
+https://mirow-l.github.io/Worshop-0/
+
 ## Workshop 0 and p5.js (8-10/1/25)
 
 Okay so the plan is to watch these videos and then do some of my own research into how to use the p5.js tool.
