@@ -1,20 +1,5 @@
 # Worshop-0
 
-
-## Introduction: 8/1/25 (First Online Meet)
-
-I haven’t ever done coding before so I’m super excited about it. I haven’t used Github before so I’m excited to figure that out. I’m curious if we will do any that could be like a point and click story game because that would be really fun for someone like myself. 
-
-Leo showed us a piece someone made last year that was a choose your own adventure type game which made me feel excited. Leo seems confidant and explained which we would be able to work with involving the audience (a la performance art) and getting the audience to input keys so that sounds really fun, might look into that after I view the first few workshop videos.
-
-Leo is talking lots about the consequences of computers existing which is really interesting, making me think lots about consequences and how the idea of computers and their consequences is kinda swept under the rug, kept out of sight out of mind.
-
-Now Beginning to write some code. Write an algorithm for a drawing. Uh oh I failed Leo’s pseudocode test ahhh. Just need to focus and not space out.
-
-- Will be learning JavaScript - library of pre-written code
-- Will be using p5.js - free and open source tool used by artists
-- Will be using Github
-
 ## Workshop 0 and p5.js (8-10/1/25)
 
 Okay so the plan is to watch these videos and then do some of my own research into how to use the p5.js tool.
